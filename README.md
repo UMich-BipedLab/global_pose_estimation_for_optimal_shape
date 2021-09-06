@@ -1,7 +1,7 @@
 # Global Pose Estimation for Optimal Target Shapes
 
 ## Overview
-This is a package for the generation of the optimal shape, described in paper: **Optimal Target Shape for LiDAR Pose Estimation** ([PDF](./OptimalShape_WOSolver_RAL_Longer.pdf))([arXiv](https://arxiv.org/abs/1908.10349)). This work is submitted to IEEE Robotics and Automation Letters.
+This is a package for the generation of the optimal shape, described in paper: **Optimal Target Shape for LiDAR Pose Estimation** ([PDF](./OptimalShape_WOSolver_RAL_Longer.pdf))([arXiv](https://arxiv.org/abs/2109.01181)). This work is submitted to IEEE Robotics and Automation Letters.
 
 Both the simulation and the experimental results (verified by a motion capture system) confirm that by using the optimal shape and the global solver, we achieve **centimeter error in translation and a few degrees in rotation even when a partially illuminated target is placed 30 meters away.**
 
